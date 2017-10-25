@@ -1,0 +1,16 @@
+---
+pageable: true
+per_page: 10
+---
+<div class="col-md-12 blog-post">
+  <% page_articles.each_with_index do |article, i| %>
+    <div class="post-title">
+      <h1><%= link_to article.title, article %></h1> <span></span></h2>
+    </div>
+    <div class="post-info">
+      <span><%= article.date.strftime('%b %e, %Y') %> / by <a href="about.html">Stefan Mijucic</a></span>
+    </div>
+    <p><%= strip_summary(article.summary(250)) %></p>
+    <%= link_to "Read More", article, :class => "button button-style button-anim fa" %>
+  <% end %>
+</div>

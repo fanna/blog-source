@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+
+bundle install
+
+echo '         WHITE TOWER  '
+echo '                      '
+echo '         ]-I-I-I-I-[  '
+echo '          \ `    _/   '
+echo '           [*]  __|   '
+echo '           |__   ,|   '
+echo '           | ___ ,|   '
+echo '        I_I__I_I__I_I '
+echo '        \-\--|-|--/-/ '
+echo '         |[]       |  '
+echo '         |.   | |  |  '
+echo '        / \| []   .|  '
+echo '       <===>  |   .|  '
+echo '       ] []|`   [] |  '
+echo '       ] []| ` |   |  '
+echo '       <===>       |  '
+echo '        \T/  | |-- |  '
+echo '         |      . _|  '
+echo '      ../|  v . | .|  '
+echo '       |//\.........  '
+echo '                      '
+echo '      localhost:4000  '
+
+bundle exec middleman -p 4000
