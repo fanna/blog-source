@@ -1,7 +1,77 @@
-{% extends "base.html" %}
+{% extends "lightspeed/templates/index.html" %}
 
-{% block content %}
-<h1 class="title">
-  This is my blog made with Zola.
-</h1>
-{% endblock content %}
+{% block head %}
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>{% block title %}{{ config.title }} {{ config.description }}{% endblock title %}</title>
+  <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}" />
+  <link rel="shortcut icon"  href="{{ get_url(path="favicon.ico") | safe }}" />
+  <link rel="alternate" type="application/atom+xml" title="RSS" href="{{ get_url(path="atom.xml") | safe }}">
+  
+   <!-- CSS -->
+   <link rel="stylesheet" href="{{ get_url(path="style.css", trailing_slash=false) }}">
+
+  {% block seo -%}
+    <meta property="og:site_name" content="{% block ogsitename %}{{config.title}}{% endblock ogsitename %}">
+    {% if config.extra.author -%}
+      <meta name="author" content="{{ config.extra.author }}" />
+    {%- endif %}
+    <meta property="og:title" content="{% block ogtitle %}{{config.title}}{% endblock ogtitle %}">
+    <meta property="og:description" content="{% block ogdesc %}{{config.description}}{% endblock ogdesc %}">
+    <meta property="og:url" content="{% block ogurl %}{{config.base_url | safe }}{% endblock ogurl %}">
+    <meta property="og:image" content="{% block ogimage %}{% if config.extra.ogimage %}{{ get_url(path=config.extra.ogimage) | safe }}{% endif %}{% endblock ogimage %}">
+
+    {% if page.date -%}
+      <meta property="og:type" content="article" />
+      <meta property="article:published_time" content="{{ page.date | date(format="%+") }}" />
+    {%- endif %}
+
+    {% if page.earlier -%}
+      <link rel="prev" href="{{ page.earlier.permalink | safe }}" />
+    {%- endif %}
+    {% if page.later -%}
+      <link rel="next" href="{{ page.later.permalink | safe }}" />
+    {%- endif %}
+  {%- endblock seo -%}
+
+  {% block extra_head %}
+  {% endblock extra_head %}
+
+</head>
+{% endblock head %}
+
+{% block header %}
+<header role="banner">
+  <div class="logo" style="margin-left: 30%; margin-right: 30%;">
+    <a href="{{ config.base_url | safe }}" title="Home"><img src={{ get_url(path="logo.png" ) }}></a>
+  </div>
+</header>
+<hr />
+{% endblock header %}
+{% block footer %}
+<footer role="contentinfo">
+  <hr />
+  {% if config.extra.footer_links %}
+  <nav style="margin-bottom:1rem;" role="navigation">
+    {% for item in config.extra.footer_links %}
+      <a href="{{ item.url | replace(from="$BASE_URL", to=config.base_url) | safe }}">{{ item.name }}</a>
+      {% if loop.last %}{% else %}
+        <span>&middot;</span>
+      {% endif %}
+    {% endfor %}
+  </nav>
+  {% endif %}
+  {% block taglines %}
+  <h5>
+    <span>&copy; {{ now() | date(format="%Y") }} <a href="{{ get_url(path="", trailing_slash=false ) }}">{{ config.title }}</a></span>
+    <span>&middot;</span>
+    <span><a href="{{ get_url(path="about", trailing_slash=false ) }}">About</a></span>
+    <span>&middot;</span>
+    <span><a href="https://open.spotify.com/playlist/4BxCn8cr6oy43zopgqJkwE?si=7zgXVvjcRr-LhNfAj_NUSg">Music</a></span>
+    <span>&middot;</span>
+  </h5>
+  {% endblock taglines %}
+</footer>
+{% endblock footer %}
