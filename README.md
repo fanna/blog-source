@@ -1,9 +1,7 @@
 # blog-source
 
 
-```
-    WHITE TOWER  
-                 
+```              
     ]-I-I-I-I-[  
      \ `    _/   
       [*]  __|   
