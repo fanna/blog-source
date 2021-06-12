@@ -67,7 +67,7 @@ class Elements {
 }
 
 async function app() {
-    const json = await readTextFile("cv/resume.json");
+    const json = await readTextFile("resume.json");
     const resume = JSON.parse(json);
 
     console.log(resume);

@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "http://whitetower.info"
+base_url = "https://whitetower.info"
 
 theme = "lightspeed"
 title = "White Tower"
