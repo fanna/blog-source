@@ -65,7 +65,7 @@
   {% endif %}
   {% block taglines %}
   <h5>
-    <span>&copy; {{ now() | date(format="%Y") }} <a href="{{ get_url(path="", trailing_slash=false ) }}">{{ config.title }}</a></span>
+    <span>&copy; {{ now() | date(format="%Y") }} {{ config.title }}</span>
     <span>&middot;</span>
     <span><a href="{{ get_url(path="about", trailing_slash=false ) }}">About</a></span>
     <span>&middot;</span>

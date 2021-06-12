@@ -27,6 +27,9 @@
 
 source for fanna.github.io
 
+## Installation 
+
+Follow the instructions [here](https://www.getzola.org/documentation/getting-started/installation/).
 ## Test the blog on a server
 
 `./server`
