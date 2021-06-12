@@ -1,0 +1,86 @@
+@font-face {
+	font-family: appareoBlackItalic;
+	src: url(Appareo_Black_Italics.otf);
+}
+
+@font-face {
+	font-family: appareoBlack;
+	src: url(Appareo_Black.otf);
+}
+
+@font-face {
+	font-family: libreBaskervilleRegular;
+	src: url(LibreBaskerville-Regular.otf);
+}
+
+@font-face {
+	font-family: libreBaskervilleBold;
+	src: url(LibreBaskerville-Bold.otf);
+}
+
+@font-face {
+	font-family: libreBaskervilleItalic;
+	src: url(LibreBaskerville-Italic.otf);
+}
+
+html,
+body {
+	background: #ffffff;
+	color: #2d2d2d;
+	line-height: 130%;
+	font-family: appareoBlack;
+}
+p {
+	font-family: appareoBlack;
+}
+
+em {
+	font-family: appareoBlackItalic;
+}
+
+a,
+a:visited {
+	color: darkred;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+main {
+	margin: auto;
+	max-width: 38rem;
+	padding: 0.8rem;
+}
+pre {
+	background: white;
+	overflow: scroll;
+	padding: 1rem;
+}
+td {
+	border: 1px solid #2d2d2d;
+	padding: 10px;
+}
+img {
+	height: auto;
+	max-width: 100%;
+}
+.homepage-list {
+	list-style: none;
+	padding: 1rem 0;
+}
+.homepage-list li {
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-bottom: 10px;
+}
+@media (max-width: 38rem) {
+	.homepage-list li a {
+		width: 100%;
+	}
+}
+
+time {
+	font-family: 'Courier New', Courier, monospace;
+}

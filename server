@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-bundle install
-
 echo '         WHITE TOWER  '
 echo '                      '
 echo '         ]-I-I-I-I-[  '
@@ -23,6 +21,6 @@ echo '         |      . _|  '
 echo '      ../|  v . | .|  '
 echo '       |//\.........  '
 echo '                      '
-echo '      localhost:4000  '
+echo '      localhost:1111  '
 
-bundle exec middleman -p 4000
+zola serve

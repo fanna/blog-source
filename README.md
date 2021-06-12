@@ -1,15 +1,32 @@
 # blog-source
 
+
+```
+    WHITE TOWER  
+                 
+    ]-I-I-I-I-[  
+     \ `    _/   
+      [*]  __|   
+      |__   ,|   
+      | ___ ,|   
+   I_I__I_I__I_I 
+   \-\--|-|--/-/ 
+    |[]       |  
+    |.   | |  |  
+   / \| []   .|  
+  <===>  |   .|  
+  ] []|`   [] |  
+  ] []| ` |   |  
+  <===>       |  
+   \T/  | |-- |  
+    |      . _|  
+ ../|  v . | .|  
+  |//\.........  
+                 
+``
+
 source for fanna.github.io
 
-## Make new post
-
-`bundle exec middleman article "POST_TITLE"`
-
-## Test the blog on server
+## Test the blog on a server
 
 `./server`
-
-## Build the blog
-
-bundle exec middleman build
