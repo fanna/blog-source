@@ -1,0 +1,184 @@
+{
+    "name": "Stefan Mijucic",
+    "title": "Computer Graphics Engineer",
+    "contact": {
+        "phone": "+421918894391",
+        "email": "stefan@mijucic.com"
+    },
+    "programming": {
+        "languages": [
+            {
+                "name": "JavaScript",
+                "level": 90
+            },
+            {
+                "name": "Python",
+                "level": 90
+            },
+            {
+                "name": "Rust",
+                "level": 80
+            },
+            {
+                "name": "Ruby",
+                "level": 75
+            },
+            {
+                "name": "Elixir",
+                "level": 70
+            },
+            {
+                "name": "C",
+                "level": 60
+            }
+        ],
+        "technologies": [
+            {
+                "name": "THREE.js",
+                "level": 90
+            },
+            {
+                "name": "Ruby on Rails",
+                "level": 80
+            },
+            {
+                "name": "OpenGL",
+                "level": 60
+            },
+            {
+                "name": "React",
+                "level": 50
+            }
+        ]
+    },
+    "languages": [
+        {
+            "language": "Serbian",
+            "level": "Native"
+        },
+        {
+            "language": "English",
+            "level": "C2"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Open Source Tech"
+        },
+        {
+            "name": "Computer Graphics"
+        },
+        {
+            "name": "Game Development"
+        },
+        {
+            "name": "Procedural Generation"
+        },
+        {
+            "name": "D&D and other Fantasy Worlds"
+        }
+    ],
+    "work": [
+        {
+            "position": "Freelance Software Engineer at Seges",
+            "period": "April 2020 - Now",
+            "description": "Working on web-based projects for multiple clients. Work in YesElf core team. Using technologies such as WebGL, React, Django, PostgreSQL, ExpressJS"
+        },
+        {
+            "position": "Freelance Game Developer at BAIT",
+            "period": "December 2019 - June 2020",
+            "description": "Working on multiplayer backend services for Unity based game in Rust. Game development of idle game using Unity game engine"
+        },
+        {
+            "position": "3D Developer at Vectary",
+            "period": "April 2018 - March 2020",
+            "description": "Working on Vectary core graphics engine and geometry converting tools. Making real-time multi-user collaboration mode and project lead on 3D HTML Viewer Embed. Lead developer on Figma and Sketch 3D viewer plugins. Using techonologies such as TypeScript, THREE.js, PlayCanvas, WebRTC, Gulp, WebComponents"
+        },
+        {
+            "position": "Founder at Wizux OÜ",
+            "period": "December 2019 - Now",
+            "description": "Providing software solutions for B2B customers worldwide. Currently working on SaferSun as back-end engineer. Using technologies such as Rust, Tokio, Protocol Buffers, Kafka etc."
+        },
+        {
+            "position": "Game Developer at Ready Makers, Inc.",
+            "period": "November 2017 - January 2018",
+            "description": "Developing games using GetReady.io tool, enhancing drag and drop visual programming tool using Unity"
+        },
+        {
+            "position": "Junior Software Engineer at Rendered Text",
+            "period": "May 2016 - October 2017",
+            "description": "Working on both back-end and front-end part of SemaphoreCI. Working on Continous Integration platform used by thousands of developers worldwide. Decomposing monolith application to microservices using Elixir, Ruby, AWS and Docker. Technologies used daily: Git, Linux, Shell, RSpec, Cucumber, ExSpec, PostgreSQL, etc."
+        },
+        {
+            "position": "Internship at Rendered Text",
+            "period": "July - October 2015",
+            "description": "Part of SemaphoreCI Infrastructure Team. Creating the persistent log system using Ruby on Rails and Sinatra. Using behaviour-driven and test-driven development on daily basis"
+        }
+    ],
+    "workshops": [
+        {
+            "date": "February 2019",
+            "location": "Demobit 2019 - Bratislava, Slovakia",
+            "description": "Creating a JavaScript based demo using cables.gl for One Scene compo."
+        },
+        {
+            "date": "November 2016",
+            "location": "Hacker Games 2016 - Utrecht, Netherlands",
+            "description": "Programming DevOps and System Administrator voice assistant using AWS Lambda, Alexa and Node.js"
+        },
+        {
+            "date": "April 2016",
+            "location": "Resonate 2016 - Belgrade, Serbia",
+            "description": "One day workshop: Introduction to shaders with Ricardo Cabello (creator ofThreeJS framework) as mentor. Three day workshop: Embedded synthesizer programming using C and STM32 F7 development board with Karsten Schmidt as mentor."
+        },
+        {
+            "date": "May 2015",
+            "location": "Rendered Text Hackathon - Novi Sad, Serbia",
+            "description": "Web application for Elixir code static analysis using Elixir and Phoenix framework."
+        },
+        {
+            "date": "April 2015",
+            "location": "Resonate 2015 - Belgrade, Serbia",
+            "description": "One day workshop: Introduction to Open Frameworks with Andreas Muller as mentor."
+        }
+    ],
+    "volunteering": [
+        {
+            "date": "April 2017 - Now",
+            "location": "Indiestellar - Novi Sad, Serbia",
+            "position": "Cofounder",
+            "description": "Co-founded NGO for embracing independet game development scene in Sebia by organizing game jams, meetups, conferences and workshops. Organized IRDC 2017 (Independent Roguelike Developers Conference) in Novi Sad"
+        }
+    ],
+    "education": [
+        {
+            "period": "2012 - 2017",
+            "location": "Faculty of Tehnical Science - University of Novi Sad, Serbia",
+            "title": "Bachelor With Honours in Computer Graphics",
+            "thesis": "Interactive Generative Sound Visualization",
+            "description": "Creating interactive generative sound visualization using Kinect and Processing Framework"
+        }
+    ],
+    "social": [
+        {
+            "name": "Website",
+            "link": "http://whitetower.info"
+        },
+        {
+            "name": "github",
+            "link": "https://github.com/fanna"
+        },
+        {
+            "name": "twitter",
+            "link": "https://twitter.com/fannasm"
+        },
+        {
+            "name": "itch.io",
+            "link": "https://fanna.itch.io"
+        },
+        {
+            "name": "linkedin",
+            "link": "https://rs.linkedin.com/in/stefan-mijučić-981392bb"
+        }
+    ]
+}
