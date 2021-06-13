@@ -13,6 +13,11 @@
    <!-- CSS -->
    <link rel="stylesheet" href="{{ get_url(path="main.css", trailing_slash=false) }}">
 
+  {% block rss %}
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path=" rss.xml", trailing_slash=false)
+    }}">
+  {% endblock %}
+
   {% block seo -%}
     <meta property="og:site_name" content="{% block ogsitename %}{{config.title}}{% endblock ogsitename %}">
     {% if config.extra.author -%}
