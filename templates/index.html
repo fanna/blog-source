@@ -14,8 +14,7 @@
    <link rel="stylesheet" href="{{ get_url(path="main.css", trailing_slash=false) }}">
 
   {% block rss %}
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path=" rss.xml", trailing_slash=false)
-    }}">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false)}}">
   {% endblock %}
 
   {% block seo -%}
@@ -76,6 +75,7 @@
     <span>&middot;</span>
     <span><a href="https://open.spotify.com/playlist/4BxCn8cr6oy43zopgqJkwE?si=7zgXVvjcRr-LhNfAj_NUSg">Music</a></span>
     <span>&middot;</span>
+    <span><a href="{{ get_url(path="rss.xml", trailing_slash=false ) }}">RSS</a></span>
   </h5>
   {% endblock taglines %}
 </footer>
