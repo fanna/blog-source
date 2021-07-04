@@ -5,6 +5,7 @@ description = "For quite some time now  I’ve been searching for the perfect pr
 tags = ["programming"]
 [extra]
 image = "../new_expeditions.jpg"
+twitterimage = "../new_expeditions.jpg"
 +++
 
 ![New Expeditions](../new_expeditions.jpg "New Expeditions image")
