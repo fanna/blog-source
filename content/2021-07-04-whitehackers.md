@@ -4,7 +4,8 @@ description = "From all the OSR/N(u)SR rulesets out there, one particularly grab
 [taxonomies]
 tags = ["game design", "ttrpg", "review"]
 [extra]
-image = "whitehackers.png"
+image = "../whitehackers.png"
+twittercard = "../whitehackers.png"
 +++
 
 ![Whitehackers](../whitehackers.png "Whitehackers image")
