@@ -26,6 +26,7 @@
     <meta property="og:description" content="{% block ogdesc %}{{config.description}}{% endblock ogdesc %}">
     <meta property="og:url" content="{% block ogurl %}{{config.base_url | safe }}{% endblock ogurl %}">
     <meta property="og:image" content="{% block ogimage %}{% if config.extra.ogimage %}{{ get_url(path=config.extra.ogimage) | safe }}{% endif %}{% endblock ogimage %}">
+    <meta name="twitter:card" content={{ get_url(path="logo.png") | safe }}></meta>
 
     {% if page.date -%}
       <meta property="og:type" content="article" />
