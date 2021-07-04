@@ -4,7 +4,7 @@ description = "For quite some time now  I’ve been searching for the perfect pr
 [taxonomies]
 tags = ["programming"]
 [extra]
-image = "../new_expeditions.jpg"
+ogimage = "../new_expeditions.jpg"
 +++
 
 ![New Expeditions](../new_expeditions.jpg "New Expeditions image")
