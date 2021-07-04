@@ -1,10 +1,10 @@
 +++
 title = "Whitehackers"
-description = "From all the **OSR/N(u)SR** rulesets out there, one particularly grabbed my attention. One day I stumbled upon [this](https://v.redd.it/68c42emolzm41) amazing post on reddit, and once I realized that the drawings were made by a player inside the spare pages of the core rulebook – which were put there for that exact purpose – my mind exploded, and the one to blame was **Whitehack**."
+description = "From all the OSR/N(u)SR rulesets out there, one particularly grabbed my attention. One day I stumbled upon this amazing post on reddit, and once I realized that the drawings were made by a player inside the spare pages of the core rulebook – which were put there for that exact purpose – my mind exploded, and the one to blame was Whitehack."
 [taxonomies]
 tags = ["game design", "ttrpg", "review"]
 [extra]
-image = "../whitehackers.png"
+image = "whitehackers.png"
 +++
 
 ![Whitehackers](../whitehackers.png "Whitehackers image")
