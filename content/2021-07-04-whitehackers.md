@@ -7,7 +7,7 @@ tags = ["game design", "ttrpg", "review"]
 image = "whitehackers.png"
 +++
 
-![Whitehackers](../whitehackers.png "Whitehackers image")
+![Whitehackers](../whitehackers.jpg "Whitehackers image")
 
 From all the **[OSR](https://en.wikipedia.org/wiki/Old_School_Revival)/[N(u)SR](https://boneboxchant.wordpress.com/2019/12/21/nsr/)** rulesets out there, one particularly grabbed my attention. One day I stumbled upon [this](https://v.redd.it/68c42emolzm41) amazing post on reddit, and once I realized that the drawings were made by a player inside the spare pages of the core rulebook – which were put there for that exact purpose – my mind exploded, and the one to blame was **Whitehack**.
 
