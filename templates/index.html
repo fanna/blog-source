@@ -57,6 +57,15 @@
 </header>
 <hr />
 {% endblock header %}
+{% block content %}
+<ul class="homepage-list">
+  {% for post in section.pages %}
+    {% if post.year != 1993 %}
+      {{ macros::post_in_list(post=post) }}
+    {% endif %}
+  {% endfor %}
+</ul>
+{% endblock content %}
 {% block footer %}
 <footer role="contentinfo">
   <hr />
@@ -75,6 +84,7 @@
     <span>&copy; {{ now() | date(format="%Y") }} {{ config.title }}</span>
     <span>&middot;</span>
     <span><a href="{{ get_url(path="about", trailing_slash=false ) }}">About</a></span>
+    <!-- <span><a href="{{ get_url(path='@/about.md') }}">About</a></span> -->
     <span>&middot;</span>
     <span><a href="https://open.spotify.com/playlist/4BxCn8cr6oy43zopgqJkwE?si=7zgXVvjcRr-LhNfAj_NUSg">Music</a></span>
     <span>&middot;</span>

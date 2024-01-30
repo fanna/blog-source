@@ -1,6 +1,8 @@
 # The URL the site will be built for
 base_url = "https://whitetower.info"
 
+generate_categories_pages = false
+
 theme = "lightspeed"
 title = "White Tower"
 # Whether to automatically compile all Sass files in the sass directory
