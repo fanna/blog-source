@@ -82,7 +82,7 @@
         {
             "position": "Senior Software Engineer at AppLearn",
             "period": "January 2021 - Now",
-            "description": "Started working as part of YesElf core team before and after the merger of YesElf and AppLearn. Currently workin as senior software engineer on a fullstack for ADOPT, digital adoption platform. Using technologies such as React, Node.js, AWS, ExpressJS, Terraform, Redis, MySQL, Couchbase, Keycloak, C++, node-gyp"
+            "description": "Started working as part of YesElf core team before the merger of YesElf and AppLearn. Currently workin as senior software engineer on a fullstack for ADOPT, digital adoption platform. Using technologies such as React, Node.js, AWS, ExpressJS, Terraform, Redis, MySQL, Couchbase, Keycloak, C++, node-gyp"
         },
         {
             "position": "Freelance Software Engineer at Seges",
@@ -90,14 +90,9 @@
             "description": "Working on web-based projects for multiple clients. Using technologies such as WebGL, React, Django, PostgreSQL, ExpressJS"
         },
         {
-            "position": "Founder at Wizux OÜ",
-            "period": "December 2019 - Now",
-            "description": "Providing software solutions for B2B customers worldwide. Worked on SaferSun (Android video game) as back-end engineer. Using technologies such as Rust, Tokio, Protocol Buffers, Kafka etc."
-        },
-        {
             "position": "Freelance Game Developer at BAIT",
             "period": "December 2019 - June 2020",
-            "description": "Working on multiplayer backend services for Unity based game in Rust. Game development of idle game using Unity game engine"
+            "description": "Working on multiplayer backend services for Unity based game in Rust. Using technologies such as Rust, Tokio, Protocol Buffers, Kafka etc. Game development of idle game using Unity game engine"
         },
         {
             "position": "3D Developer at Vectary",
