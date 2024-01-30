@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>White Tower</title>
+      <link>https://whitetower.info</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://whitetower.info/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Whitehackers</title>
+          <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://whitetower.info/whitehackers/</link>
+          <guid>https://whitetower.info/whitehackers/</guid>
+          <description xml:base="https://whitetower.info/whitehackers/">&lt;p&gt;&lt;img src=&quot;..&#x2F;whitehackers.jpg&quot; alt=&quot;Whitehackers&quot; title=&quot;Whitehackers image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;From all the &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Old_School_Revival&quot;&gt;OSR&lt;&#x2F;a&gt;&#x2F;&lt;a href=&quot;https:&#x2F;&#x2F;boneboxchant.wordpress.com&#x2F;2019&#x2F;12&#x2F;21&#x2F;nsr&#x2F;&quot;&gt;N(u)SR&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; rulesets out there, one particularly grabbed my attention. One day I stumbled upon &lt;a href=&quot;https:&#x2F;&#x2F;v.redd.it&#x2F;68c42emolzm41&quot;&gt;this&lt;&#x2F;a&gt; amazing post on reddit, and once I realized that the drawings were made by a player inside the spare pages of the core rulebook – which were put there for that exact purpose – my mind exploded, and the one to blame was &lt;strong&gt;Whitehack&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Before going directly to an official product page and buying a copy of the rulebook, I peeked into the Whitehack subreddit and, to my surprise, I saw one of the most creative communities in the OSR&#x2F;NSR scene (full stop). It was really thrilling to see the amount of creativity coming from the players and referees of the game.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Is it that creatives are attracted to this game or does game itself spark the creativity in one’s mind?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This was the first question that came to my mind. The only way I could answer it myself was to check what the game actually has to offer.&lt;&#x2F;p&gt;
+&lt;p&gt;When it comes to buying a physical copy of the rules, I didn&#x27;t get the 2nd edition at the time since the 3rd one has already been announced. Instead, I was impatiently waiting for the release of the 3rd edition. And not long after I was holding a single book that is 159 pages shy including the index. And that&#x27;s it. All the core rules, DM rules and monster manuals are hidden between these pages that are barely bigger than a pocketbook.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;white-the-hack&quot;&gt;White the hack?&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Whitehack&lt;&#x2F;strong&gt; is without any doubt a &lt;em&gt;generic role-playing system&lt;&#x2F;em&gt; that is still OSR compatible if you stretch your grey muscles a bit.&lt;&#x2F;p&gt;
+&lt;p&gt;First striking thing that caught my attention was the subtitle at the book dustjacket - &lt;em&gt;Quality Rules&lt;&#x2F;em&gt;. What was &lt;strong&gt;Christian Mehrstam&lt;&#x2F;strong&gt; (a.k.a the creator of &lt;em&gt;Whitehack&lt;&#x2F;em&gt;) implying with this? Was his intention to point to the undoubtable and increasing need for a quality content in role-playing games? Even though the name itself mentions &amp;quot;hack&amp;quot;, I’d rather say it’s a mishmash of good (both general and innovative) ideas than a particular &lt;em&gt;hack&lt;&#x2F;em&gt; of a system.&lt;&#x2F;p&gt;
+&lt;p&gt;The game is kind of a Talmud itself in its appearance and design goals. Or should I say &lt;em&gt;&amp;quot;One ring to rule them all&amp;quot;&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;As a software engineer, I couldn&#x27;t help but notice that the creator probably had a software design approach to game creation. To be more precise, I wouldn&#x27;t be far off to say that it contains linguistic and&#x2F;or entity-component based approach of game rules design.&lt;&#x2F;p&gt;
+&lt;p&gt;For example, the game&#x27;s character creation has no direct notion of races, classes, and subclasses, but rather uses general concepts such as &lt;em&gt;wordings&lt;&#x2F;em&gt;, &lt;em&gt;groups&lt;&#x2F;em&gt; and &lt;em&gt;vocations&lt;&#x2F;em&gt;. &lt;strong&gt;Groups&lt;&#x2F;strong&gt; are the coolest one and they represent basically anything you want your character to be. Do you want to play &lt;strong&gt;The Strong Giant Treefolk Swordmaster&lt;&#x2F;strong&gt;? You can have it, those are three groups attached to &lt;strong&gt;The Strong&lt;&#x2F;strong&gt; vocation. The &lt;strong&gt;vocation&lt;&#x2F;strong&gt; will give some game mechanics and core fluff to the character, whereas other group wordings (&lt;em&gt;treefolk&lt;&#x2F;em&gt;, &lt;em&gt;giant&lt;&#x2F;em&gt; and &lt;em&gt;swordmaster&lt;&#x2F;em&gt;) come with some advantages and disadvantages plus player-driven flavor to the character. Those bonuses and penalties are meant to be defined by a player with a guidance of a referee based on the common sense. For instance, if someone decides to be a giant, that character is most likely going to be tall and slow, thus adding some minus modifiers to movement and plus modifiers to constitution etc.&lt;&#x2F;p&gt;
+&lt;p&gt;This is a perfect example of general &lt;strong&gt;entities&lt;&#x2F;strong&gt; that can have &lt;strong&gt;components&lt;&#x2F;strong&gt; attached to them while using the base linguistic principles of &lt;em&gt;adjectives&lt;&#x2F;em&gt; and &lt;em&gt;nouns&lt;&#x2F;em&gt;. And all of these combine nicely and make a super generic &lt;em&gt;system&lt;&#x2F;em&gt; that can be used for running basically any setting.&lt;&#x2F;p&gt;
+&lt;p&gt;Oh, and did I mention that this system scales and applies a similar approach to creating spells, items, monsters and &lt;strong&gt;bases&lt;&#x2F;strong&gt;. Genius, right?&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;whitepages.jpg&quot; alt=&quot;Whitepages&quot; title=&quot;Whitepages image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The book contains 6 chapters and one appendix and index. The 6 chapters are split in a meaningful way where each one represents different set of rules and guides with the exception of first &lt;em&gt;Introduction&lt;&#x2F;em&gt; chapter, which hooks you into what &lt;strong&gt;Whitehack&lt;&#x2F;strong&gt; actually is and where it is heading with its &lt;em&gt;quality rules&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;One particular chapter stands out the most in my opinion – the fifth chapter titled &lt;em&gt;&amp;quot;How to Run the Game&amp;quot;&lt;&#x2F;em&gt;. It serves as a Referee guide (DM&#x27;s guide) of sorts, but I would say it is much more than that. The whole chapter is actually giving some great tips on how to be a Referee, and how to create impressive dungeons, adventures, campaigns and stories. It can serve as an abstract and encapsulated tool for worldbuilding, regardless of whether you’re into RPGs or not. This sole chapter is a good enough purchase reason if you are into game design, worldbuilding or fiction writing.&lt;&#x2F;p&gt;
+&lt;p&gt;For example, at one point in the chapter there is a graph&#x2F;flowchart that shows &lt;em&gt;&amp;quot;Mapping Phases&amp;quot;&lt;&#x2F;em&gt; which portrays how to map out adventure phases so that there is no need for heavy brainstorming of all the different outcomes that are possible within an adventure. All the phases are represented as nodes that are linked with bi-directional paths. Each link has an abstract action name (&lt;em&gt;task&lt;&#x2F;em&gt;, &lt;em&gt;knowledge&lt;&#x2F;em&gt;, &lt;em&gt;item&lt;&#x2F;em&gt; etc.) that indicates what the characters of the adventure should attend to. The chapter features several similar diagrams that are both abstract and pretty useful. This is pure software engineering stuff, right?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;goosebumps&quot;&gt;Goosebumps&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;While the rules provide structure and means of resolution, their main purpose isn’t to help. Children learn to make things up together long before they can read, playing games of make-believe. You may need a reminder, but you don’t need written rules for that.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Christian Mehrstam&lt;&#x2F;strong&gt; (2021), &lt;em&gt;Whitehack Third Edition&lt;&#x2F;em&gt;, Chapter V p.104&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;The game also utilizes (only if needed) some procedural content generation. One that particularly comes to my mind is a miracle (spells) generation, that’s titled in the book as &lt;em&gt;Miracle Wording Oracle&lt;&#x2F;em&gt;. Basically, this feature allows you to create new interesting spells with rolling a few &lt;strong&gt;d20s&lt;&#x2F;strong&gt; and following the provided table. In my case it turned out to be &lt;strong&gt;The Speaking Orb of the Death Servant&lt;&#x2F;strong&gt; and thus I created a magical orb with player driven plot hook at its name. As to how powerful a miracle can be, the chapter includes a useful table as a toolkit for spell stats and related game mechanics.&lt;&#x2F;p&gt;
+&lt;p&gt;When it comes to dungeon design principles (recipes) showcased in the 5th chapter, I’d imagine even great designers such as the ones that made &lt;em&gt;Gloomhaven&lt;&#x2F;em&gt; would be envious. It’s the ultimate go-to tool for creating gripping and addicting dungeons that players would want to explore.&lt;&#x2F;p&gt;
+&lt;p&gt;Monster creator in the 6th chapter is another fun exercise for when you are out of monster ideas regardless of the game you’re playing. In the chapter you can also find a good guide for defining boss monsters (as a DM I usually suck at creating those and end up creating overpowered NPCs).&lt;&#x2F;p&gt;
+&lt;p&gt;Each chapter also features at least one or two paragraphs on how to convert or import the adventures, monsters, and spells from the &amp;quot;other games&amp;quot; and&#x2F;or other old school extravaganza.&lt;&#x2F;p&gt;
+&lt;p&gt;Appendix features mind-blowing easter egg adventure that is actually an exercise for what you learned in the previous chapters. It is a great tool for checking if the reader is utilizing the tools provided in the book and therefore &lt;em&gt;generating&lt;&#x2F;em&gt; an amazing adventure.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;whitehacking.jpg&quot; alt=&quot;Whitehacker&quot; title=&quot;Whitehacker image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Whitehacking from the pool&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;finale&quot;&gt;Finale&lt;&#x2F;h2&gt;
+&lt;p&gt;Suffice to say I have my answer. This game is a toolbox that both creatives and non-creatives can utilize for giving birth to new stories, worlds and systems. It undoubtedly has more than enough imaginative spark for anyone that’s searching for it. When in right hands and imaginative mind, &lt;strong&gt;Whitehack&lt;&#x2F;strong&gt; helps you create those awesome filled pages that I&#x27;ve mentioned in beginning.&lt;&#x2F;p&gt;
+&lt;p&gt;If you want to buy the game go to &lt;a href=&quot;https:&#x2F;&#x2F;whitehackrpg.wordpress.com&#x2F;buy&#x2F;&quot;&gt;this page&lt;&#x2F;a&gt;. There are a couple of different &amp;quot;variations&amp;quot; of the printed products (at least at the time I’m writing this). All of them contain the same rules, but the book format is different. For example, the &amp;quot;Notebook Edition&amp;quot; contains those awesome empty spare pages that are to be filled by a player or a Referee.&lt;&#x2F;p&gt;
+&lt;p&gt;There is also a digital &lt;em&gt;phone-friendly&lt;&#x2F;em&gt; version which has the price of (again, at the time of writing this) a single &lt;a href=&quot;http:&#x2F;&#x2F;www.chessex.com&#x2F;&quot;&gt;&lt;em&gt;Chessex d20&lt;&#x2F;em&gt;&lt;&#x2F;a&gt; dice set. Just to be clear, the smartphone and that one version is all you need to play this amazing game, since there are plenty of free d20 dice apps out there. All in all, the game is really accessible and there is something to look forward to for everyone.&lt;&#x2F;p&gt;
+&lt;p&gt;That’s it for now. Next up is the other ...&lt;em&gt;hack&lt;&#x2F;em&gt; from the dark side of the Force. &lt;strong&gt;Blackhack&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>New Expeditions</title>
+          <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://whitetower.info/new-expeditions/</link>
+          <guid>https://whitetower.info/new-expeditions/</guid>
+          <description xml:base="https://whitetower.info/new-expeditions/">&lt;p&gt;&lt;img src=&quot;..&#x2F;new_expeditions.jpg&quot; alt=&quot;New Expeditions&quot; title=&quot;New Expeditions image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;For quite some time now  I’ve been searching for the perfect programming language for my next hobby project. As a matter of fact, there are two projects that I am considering at the moment, but given the levels of my procrastination and the ever-changing industry loop, the day of my initial commit for both projects seems blurred like never before.&lt;&#x2F;p&gt;
+&lt;p&gt;The common mistake I usually make is that before I start any project I do a lot of research, and from time to time I get stuck at the early stage – choosing the tech for my projct. Is it the fault of many choices we have these days, or is it some indecisive part of my personality? Or could it be due to the never ending options we have as developers? In order to answer these questions, firstly I need to define what is necessary for my project. I believe that my projects can’t live without the following thing:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Portability&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Good memory management&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Speed&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Ease-of-use&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Modern approach&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;the-programming-language-standard&quot;&gt;The Programming Language Standard&lt;&#x2F;h2&gt;
+&lt;p&gt;While doing the research for the project, with the list in mind, I found myself actually searching for “the new programming language standard”. By that I mean &lt;strong&gt;C++&lt;&#x2F;strong&gt; of the new era, and not necessarily “the industry standard”. I know there is no such thing as a perfect programming language suitable for every project (nor there should be one). Sure, we can make &lt;strong&gt;Ruby&lt;&#x2F;strong&gt; do graphics or make web framework for &lt;strong&gt;Cobol&lt;&#x2F;strong&gt;, but is it really an optimal solution? Some languages are created for solving problems that their creators had in mind while creating them, some are created as multi-purposed tool that community shaped into a great solution for solving one thing only, while others are considered to be the ultimate languages or, as I like to call them: “programming languages standard”.&lt;&#x2F;p&gt;
+&lt;p&gt;As a CS graduate and a &lt;strong&gt;C&lt;&#x2F;strong&gt; and &lt;strong&gt;Assembly&lt;&#x2F;strong&gt; enthusiast, I find &lt;strong&gt;C++&lt;&#x2F;strong&gt; very attractive. It does a lot of things for you while still being low-level enough. But then again, which &lt;strong&gt;C++&lt;&#x2F;strong&gt; am I referring to? Am I attracted to &lt;strong&gt;ISO&#x2F;IEC 14882&lt;&#x2F;strong&gt; or &lt;strong&gt;Visual C++&lt;&#x2F;strong&gt; or &lt;strong&gt;TurboC++&lt;&#x2F;strong&gt;? What flavor is my favorite? That is my problem with &lt;strong&gt;C++&lt;&#x2F;strong&gt; actually. After years of doing projects in &lt;strong&gt;C++&lt;&#x2F;strong&gt; at university and considering it as the ultimate language, once I was out of university I realized it was just one flavor that we&#x27;ve studied, and that flavor is not commonly used anymore. Not that it would affect my project if I decide to use &lt;strong&gt;C++98&lt;&#x2F;strong&gt;, but it affects the time I invested in mastering the language and it affects the project in that ease-of-use part. In my humble opinion, &lt;strong&gt;C++&lt;&#x2F;strong&gt; these days, or at least ISO, became everything and nothing. Today one can refer to &lt;strong&gt;C++&lt;&#x2F;strong&gt; as computing. &lt;strong&gt;C++&lt;&#x2F;strong&gt; actually is computers. Our OSes are written in it or at least use it in some way or another, internet is full of applications that use it, and it is generally all around us. Moreover, there is one special thing that &lt;strong&gt;C++&lt;&#x2F;strong&gt; did to me that no other language could. After 3 years of doing projects at university using &lt;strong&gt;C++&lt;&#x2F;strong&gt;, I found myself actually not knowing how to write good &lt;strong&gt;C++&lt;&#x2F;strong&gt; code. Maybe it is the university that I should blame, for not providing us with good practices in &lt;strong&gt;C++&lt;&#x2F;strong&gt;, or maybe it is just me that used it in the wrong way the entire time. In any case, I disagree with &lt;strong&gt;C++&lt;&#x2F;strong&gt; being my weapon of choice for now. You may ask then, why not choose &lt;strong&gt;C&lt;&#x2F;strong&gt; instead of &lt;strong&gt;C++&lt;&#x2F;strong&gt; ? &lt;strong&gt;C&lt;&#x2F;strong&gt; is: fast, it doesn&#x27;t change as much anymore, it was, and in some ways it still is, “the ultimate language”. Well, &lt;strong&gt;C&lt;&#x2F;strong&gt; doesn’t go under “modern” category. That category is there only because I find hobby projects useful for learning new tech and CS things, not necessarily to benefit from every project, but to somehow &lt;em&gt;“stay in the new tech loop”&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;new-horizons&quot;&gt;New Horizons&lt;&#x2F;h2&gt;
+&lt;p&gt;I am not the first nor the last person in the industry that has these kind of issues. If we look around there are a lot of new “still in alpha” programming languages that are promising exactly the things that I am looking for. For instance, language like &lt;strong&gt;Crystal&lt;&#x2F;strong&gt;  claims to be &lt;em&gt;“fast as &lt;strong&gt;C&lt;&#x2F;strong&gt;,  slick as &lt;strong&gt;Ruby&lt;&#x2F;strong&gt;”&lt;&#x2F;em&gt;, &lt;strong&gt;Nim&lt;&#x2F;strong&gt; – the language that has “unparalleled performance in an elegant package” etc. All of these language seem fine, but were designed for specific field in mind, unlike their older brothers – &lt;strong&gt;C&lt;&#x2F;strong&gt;, &lt;strong&gt;C++&lt;&#x2F;strong&gt; or &lt;strong&gt;Python&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Does software have some kind of independent inertia, where once CPUs really stop getting fast, software is just gonna keep going and just keep getting slower and slower until it is tolerable?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Jonathan Blow&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;While being in that loop of &lt;em&gt;“upcoming”&lt;&#x2F;em&gt; programing languages I remembered Jonathan Blow, the mind behind Braid and The Witness. He has been on a journey to create “new programing standard” since 2014, and honestly, it is going in the right direction. His new programming language, seemingly called &lt;strong&gt;Jai&lt;&#x2F;strong&gt;, is still in development and unavailable for public. He is occasionally streaming development of the language and it’s integration in his game and non-game projects. Judging by his talk from this years Reboot Developers Conference, I must say that it seems very promising. My main problem regarding &lt;strong&gt;Jai&lt;&#x2F;strong&gt; is that its release date is still unknown. Could be tomorrow or in a year or two.&lt;&#x2F;p&gt;
+&lt;div &gt;
+    &lt;iframe width=&quot;100%&quot; height=&quot;400px&quot; src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;De0Am_QcZiQ&quot;
+        webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+    &lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;Being a passionate supporter of Handmade Community I came across a new “programming language standard” attempt which is claiming to solve exactly the problems I have. And that solution is called &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gingerBill&#x2F;Odin&quot;&gt;&lt;strong&gt;Odin&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;. Oh man, I was so hyped while I was reading about it, I think I even watched the presentation video more times just to have a good grasp of what the language actually has to offer. Once the hype wore off and rational thoughts came in, I realized that it is still in alpha and that its roadmap
+still consists of some mandatory things that none of the modern languages can survive without. And sadly, that was the end of my &lt;strong&gt;Odin&lt;&#x2F;strong&gt; short story.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;good-stuff&quot;&gt;Good Stuff&lt;&#x2F;h2&gt;
+&lt;p&gt;While I don’t have time for Jonathan Blow’s child to grow up nor enough courage to explore a language that is still in alpha stages, I came to conclusion that the language I want for this project is something that has ease-of-use like Ruby, portability like C, good memory management like &lt;strong&gt;Python&lt;&#x2F;strong&gt; and speed of &lt;strong&gt;C++&lt;&#x2F;strong&gt;. After quite some time (months of daily reading the Reddit and Hacker News), I stumbled upon three things: &lt;strong&gt;Clojure&lt;&#x2F;strong&gt;, &lt;strong&gt;Rust&lt;&#x2F;strong&gt; or &lt;strong&gt;Go&lt;&#x2F;strong&gt;.  &lt;strong&gt;Lua&lt;&#x2F;strong&gt; was also on the list, but in the process of searching I decided to limit myself to 00’s languages only.&lt;&#x2F;p&gt;
+&lt;p&gt;Let’s start with the first from the list. &lt;strong&gt;Clojure&lt;&#x2F;strong&gt; is the oddest language from the list. It is based on &lt;strong&gt;Lisp&lt;&#x2F;strong&gt; , it uses &lt;strong&gt;JVM&lt;&#x2F;strong&gt; and for some reason computer graphics engineers started using it like crazy. Reason for that could be the fact that it is really fast and that it has its part in that “functional language paradigm hype train”. As its creator said in his conclusion on the official website:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I hope you find Clojure&#x27;s combination of facilities elegant, powerful, practical and fun to use.&lt;&#x2F;em&gt; &lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Rich Hickey&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I really like &lt;strong&gt;Clojure&lt;&#x2F;strong&gt; for all the things it does and the power of functional paradigm it has, but I got a little bit tired of all the brackets in its syntax, and that never clicked with me. I never felt fluent in reading it, and to be honest, I didn’t give it more time to sink in. I couldn&#x27;t afford to spend more time on it.&lt;&#x2F;p&gt;
+&lt;p&gt;Next on the list was &lt;strong&gt;Rust&lt;&#x2F;strong&gt;. &lt;strong&gt;Rust&lt;&#x2F;strong&gt; is, simply put, amazing! It is blazingly fast, modern, and it has awesome support from community. For some people it is considered to be “the new programming language standard” or the exchange for &lt;strong&gt;C++&lt;&#x2F;strong&gt;. For me… well… I did put it on “the chosen language” list, but I wanted to check one more language before I decide. And that final language was &lt;strong&gt;Go&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Go&lt;&#x2F;strong&gt; is modern &lt;strong&gt;C&lt;&#x2F;strong&gt;. Heck even one of its core designers is one of the makers of &lt;strong&gt;C&lt;&#x2F;strong&gt;, Ken Thompson. Without any further ado I started my expedition in &lt;strong&gt;Go&lt;&#x2F;strong&gt;. Hours and days passed and I was totally hooked. I even started bragging in the office how &lt;strong&gt;Go&lt;&#x2F;strong&gt; is the ultimate language of choice that every modern software should be built upon. It is so easy to use and it has everything that my list proposed. Maybe it isn’t as easy on syntax as Ruby is, but after only few hours of working in it I was feeling right at home. That sadly didn’t happen with &lt;strong&gt;Clojure&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;So it was time to decide, should I use &lt;strong&gt;Rust&lt;&#x2F;strong&gt; or should I use &lt;strong&gt;Go&lt;&#x2F;strong&gt;? I chose &lt;strong&gt;Go&lt;&#x2F;strong&gt;. I don&#x27;t know exactly why I chose &lt;strong&gt;Go&lt;&#x2F;strong&gt; over &lt;strong&gt;Rust&lt;&#x2F;strong&gt;, and demands that my projects have are satisfied by both. I think I chose &lt;strong&gt;Go&lt;&#x2F;strong&gt; simply because I felt that my projects will benefit more from it based on my previously proposed list of features. Or will they?&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Battle of the Dawn</title>
+          <pubDate>Sat, 30 Jan 1993 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://whitetower.info/20kbtbs/</link>
+          <guid>https://whitetower.info/20kbtbs/</guid>
+          <description xml:base="https://whitetower.info/20kbtbs/"></description>
+      </item>
+      <item>
+          <title></title>
+          <pubDate>Wed, 06 Jan 1993 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://whitetower.info/about/</link>
+          <guid>https://whitetower.info/about/</guid>
+          <description xml:base="https://whitetower.info/about/">&lt;h2 id=&quot;hi-i-am-stefan-mijucic&quot;&gt;Hi, I am Stefan Mijucic&lt;&#x2F;h2&gt;
+&lt;p&gt;I am a computer graphics engineer by training that got into web development. Most of all, I enjoy writing clean code and mastering the art of writing software. In my free time, I study &lt;a href=&quot;https:&#x2F;&#x2F;fanna.itch.io&#x2F;&quot;&gt;&lt;strong&gt;game development&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, low-level programming and lately game design. When not programming, I am usually playing video or board games, am deep into reading some fantasy book or worldbuidling my campaign setting. I also make some &lt;a href=&quot;https:&#x2F;&#x2F;nebonadberlinom.bandcamp.com&#x2F;releases&quot;&gt;&lt;strong&gt;indie music&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;p&gt;I used to work in startups such as &lt;a href=&quot;https:&#x2F;&#x2F;semaphoreci.com&#x2F;&quot;&gt;&lt;strong&gt;Semaphore&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;www.vectary.com&#x2F;&quot;&gt;&lt;strong&gt;Vectary&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;. Currently I am working as a software consultant on various projects that range from 3D visualisation to full-stack web app creation.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;me.png&quot; alt=&quot;Profile&quot; title=&quot;Profile image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;☮&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;fannasm&quot;&gt;&lt;strong&gt;Twitter&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;☮&lt;a href=&quot;https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;stefan-mijucic-981392bb&#x2F;&quot;&gt;&lt;strong&gt;LinkedIn&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;☮&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;fanna&quot;&gt;&lt;strong&gt;Github&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Stefan Mijucic - CV</title>
+          <pubDate>Wed, 06 Jan 1993 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://whitetower.info/cv/</link>
+          <guid>https://whitetower.info/cv/</guid>
+          <description xml:base="https://whitetower.info/cv/"></description>
+      </item>
+    </channel>
+</rss>
