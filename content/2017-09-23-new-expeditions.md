@@ -1,8 +1,6 @@
 +++
 title = "New Expeditions"
 description = "For quite some time now  I’ve been searching for the perfect programming language for my next hobby project. As a matter of fact, there are two projects that I am considering at the moment, but given the levels of my procrastination and the ever-changing industry loop, the day of my initial commit for both projects seems blurred like never before."
-[taxonomies]
-tags = ["programming"]
 [extra]
 image = "new_expeditions.jpg"
 +++
